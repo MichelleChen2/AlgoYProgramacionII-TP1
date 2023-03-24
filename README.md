@@ -4,7 +4,7 @@
 
 # TP1
 
-## Repositorio de (Nombre Apellido) - (Padrón) - (Mail)
+## Repositorio de Michelle Melisa Chen - 105506 - mchen@fi.uba.ar
 
 - Para compilar:
 
