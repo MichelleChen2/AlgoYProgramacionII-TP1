@@ -8,7 +8,7 @@ pokemon_t *pokemon_crear_desde_string(const char *string)
         if (string == NULL)
                 return NULL; 
 
-        pokemon_t *nuevo_pkm = malloc(1*sizeof(pokemon_t)); 
+        pokemon_t *nuevo_pkm = malloc(1*sizeof(pokemon_t));  
 
         if (sscanf(string, "%zu,%[^,],%zu,%[^0]0", 
                 &(nuevo_pkm->id), nuevo_pkm->nombre, 
