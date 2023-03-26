@@ -57,9 +57,9 @@ hospital_t *hospital_crear_desde_archivo(const char *nombre_archivo)
 		return NULL;
 
 	FILE *archivo = fopen(nombre_archivo, "r");
-	if (archivo == NULL) {
+	if (archivo == NULL)
 		return NULL;
-	}
+
 	struct _hospital_pkm_t *hospital =
 		malloc(1 * sizeof(struct _hospital_pkm_t));
 	hospital->pokemones = malloc(1 * sizeof(pokemon_t *));
@@ -74,9 +74,9 @@ hospital_t *hospital_crear_desde_archivo(const char *nombre_archivo)
 		pokemon_t **pkm_aux =
 			realloc(hospital->pokemones,
 				(cant_pkm + 1) * sizeof(pokemon_t *));
-		if (pkm_aux == NULL) {
+
+		if (pkm_aux == NULL)
 			return NULL;
-		}
 
 		hospital->pokemones = pkm_aux;
 		hospital->pokemones[cant_pkm] = pkm_creado;
