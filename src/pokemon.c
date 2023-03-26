@@ -10,7 +10,8 @@ pokemon_t *pokemon_crear_desde_string(const char *string)
 
 	pokemon_t *nuevo_pkm = malloc(1 * sizeof(pokemon_t));
 
-	if (sscanf(string, "%zu,%[^,],%zu,%[^\n]\n", &(nuevo_pkm->id), nuevo_pkm->nombre, &(nuevo_pkm->salud),
+	if (sscanf(string, "%zu,%[^,],%zu,%[^\n]\n", &(nuevo_pkm->id),
+		   nuevo_pkm->nombre, &(nuevo_pkm->salud),
 		   nuevo_pkm->nombre_entrenador) < 4) {
 		pokemon_destruir(nuevo_pkm);
 		return NULL;
@@ -36,9 +37,11 @@ bool pokemon_son_iguales(pokemon_t *pokemon1, pokemon_t *pokemon2)
 	if (pokemon1 == NULL || pokemon2 == NULL)
 		return NULL;
 
-	if (pokemon1->id == pokemon2->id && pokemon1->salud == pokemon2->salud &&
+	if (pokemon1->id == pokemon2->id &&
+	    pokemon1->salud == pokemon2->salud &&
 	    strcmp(pokemon1->nombre, pokemon2->nombre) == 0 &&
-	    strcmp(pokemon1->nombre_entrenador, pokemon2->nombre_entrenador) == 0)
+	    strcmp(pokemon1->nombre_entrenador, pokemon2->nombre_entrenador) ==
+		    0)
 		return true;
 	return false;
 }
