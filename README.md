@@ -66,7 +66,4 @@ Inicializo los otros variables del *hospital.
 
 <div align="center">
 <img width="70%" src="img/hospitalpkm.svg">
-img {
-  background-color: #FFFFFF;
-}
 </div>
