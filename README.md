@@ -79,3 +79,35 @@ En la función pido memoria con `malloc` para la variable `hospital` del tamaño
 <div align="center">
 <img width="70%" src="img/hospitalpkm.svg">
 </div>
+
+En un `while` loop mientras la línea devuelta por la función `leer_linea_archivo(archivo)` no sea `NULL`
+uso la función `pokemon_crear_desde_string(linea)` para crear un pokemon nuevo. Agrando el tamaño del 
+vector de `pokemon_t *` por uno y cargo el nuevo pokemon en el vector. 
+
+```c
+	while ((linea = leer_linea_archivo(archivo)) != NULL) {
+		pkm_creado = pokemon_crear_desde_string(linea);
+		pokemon_t **pkm_aux =
+			realloc(hospital->pokemones,
+				(cant_pkm + 1) * sizeof(pokemon_t *));
+
+		if (pkm_aux == NULL)
+			return NULL;
+
+		hospital->pokemones = pkm_aux;
+		hospital->pokemones[cant_pkm] = pkm_creado;
+		cant_pkm++;
+		hospital->cantidad_pokemon += 1;
+		hospital->cantidad_entrenadores += 1;
+		free(linea);
+	}
+```
+Incremento en uno `cantidad_pokemon` y `cantidad_entrenadores`. Libero la memoria pedida en la función 
+`leer_linea_archivo(archivo)` que no fue liberada con la línea `free(linea)` al final de cada ciclo. 
+En la función `pokemon_t *pokemon_crear_desde_string(const char *string)` del archivo `pokemon.c`, se
+pidió memoria con `pokemon_t *nuevo_pkm = malloc(1 * sizeof(pokemon_t))` para crear un nuevo `pokemon_t`.
+La función devuelve el pokemon creado por lo que la memoria se libera en la función `hospital_t *hospital_crear_desde_archivo(const char *nombre_archivo)` que es donde la llama. 
+
+<div align="center">
+<img width="70%" src="img/hospital.svg">
+</div>
