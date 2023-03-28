@@ -58,12 +58,24 @@ vector_original = vector;
 
 ## Respuestas a las preguntas teóricas
 
---- hospital_t *hospital_crear_desde_archivo (const char *nombre_archivo) ---
+## --- hospital_t *hospital_crear_desde_archivo (const char *nombre_archivo) ---
 
-Abro el archivo, si el archivo es NULL devuelvo NULL. Pido, primero, memoria del tamaño de un 
-struct _hospital_pkm_t y pido memoria del tamaño de pokemon_t * para un puntero a pokemon_t.
-Inicializo los otros variables del *hospital. 
+El siguiente diagrama ilustra brevemente cómo funciona la función: 
 
+<div align="center">
+<img width="70%" src="img/diacrearhospital">
+</div>
+
+En la función pido memoria con `malloc` para la variable `hospital` del tamaño de un
+`struct _hospital_pkm_t`. Pido memoria también para la variable `**pokemones` en 
+`struct _hospital_pkm_t`. Inicializo los otros variables a 0.   
+
+```c
+	struct _hospital_pkm_t *hospital =
+		malloc(1 * sizeof(struct _hospital_pkm_t));
+	hospital->pokemones = malloc(1 * sizeof(pokemon_t *));
+	hospital->cantidad_pokemon = 0, hospital->cantidad_entrenadores = 0;
+```
 <div align="center">
 <img width="70%" src="img/hospitalpkm.svg">
 </div>
