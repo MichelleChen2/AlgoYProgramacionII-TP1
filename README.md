@@ -63,7 +63,7 @@ vector_original = vector;
 El siguiente diagrama ilustra brevemente cómo funciona la función: 
 
 <div align="center">
-<img width="70%" src="img/diacrearhospital.svg">
+<img width="100%" src="img/diacrearhospital.svg">
 </div>
 
 En la función pido memoria con `malloc` para la variable `hospital` del tamaño de un
