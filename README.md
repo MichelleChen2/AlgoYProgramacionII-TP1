@@ -147,3 +147,15 @@ pedida antes de hacer `return`.
 <div align="center">
 <img width="70%" src="img/leerlineaarchivo.svg">
 </div>
+
+## pokemon.c --- pokemon_t *pokemon_crear_desde_string(const char *string) ---
+
+En esta función creo un `pokemon_t *` a partir de la línea leída por la función `char *leer_linea_archivo(FILE *archivo)`
+de `tp1.c`. 
+Pido memoria con `malloc` para el tamño de un `pokemon_t`. Uso `sscanf` para obtener los datos del `string` pasado como
+parámetro. Si la cantidad de datos leídos es memor que 4, significa que el formato de la línea no ajusta a lo pedido
+por lo que debería, primero, liberar la memoria pedida con `pokemon_destruir(nuevo_pkm)` y después devolver `NULL`. 
+
+<div align="center">
+<img width="70%" src="img/pokemoncreado.svg">
+</div>
