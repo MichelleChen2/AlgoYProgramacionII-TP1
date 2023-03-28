@@ -77,7 +77,7 @@ En la función pido memoria con `malloc` para la variable `hospital` del tamaño
 	hospital->cantidad_pokemon = 0, hospital->cantidad_entrenadores = 0;
 ```
 <div align="center">
-<img width="100%" src="img/hospitalpkm.svg">
+<img width="70%" src="img/hospitalpkm.svg">
 </div>
 
 En un `while` loop mientras la línea devuelta por la función `leer_linea_archivo(archivo)` no sea `NULL`
@@ -102,6 +102,7 @@ vector de `pokemon_t *` por uno y cargo el nuevo pokemon en el vector.
 		free(linea);
 	}
 ```
+Incremento a la variable `cant_pkm` por uno, para contar la cantidad de pokemones creados. 
 Incremento en uno `cantidad_pokemon` y `cantidad_entrenadores`. Libero la memoria pedida en la función 
 `leer_linea_archivo(archivo)` que no fue liberada con la línea `free(linea)` al final de cada ciclo. 
 En la función `pokemon_t *pokemon_crear_desde_string(const char *string)` del archivo `pokemon.c`, se
@@ -111,3 +112,24 @@ La función devuelve el pokemon creado por lo que la memoria se libera en la fun
 <div align="center">
 <img width="70%" src="img/hospital.svg">
 </div>
+
+Si la cantidad de pokemones creados es nulo, es decir, si `cant_pkm` vale 0, no se creó ningún pokemon. 
+Podríamos decir que no se pudo leer las lineas del archivo. Deveríamos devolver `NULL`. Pero antes de 
+eso deberíamos liberar la memoria pedida en el principio de la función para la variable `hospital`y 
+`hospital->pokemones`. Y cerrar el archivo abierto con `fclose`. 
+
+```c
+	if (cant_pkm == 0) {
+		free(hospital->pokemones);
+		free(hospital);
+		fclose(archivo);
+		return NULL;
+	}
+```
+En el caso de que los pokemones leídos no fuera `NULL` se ordena los pokemones del hospital con 
+la función `void ordenar_pokemones(hospital_t *hospital)` y se cierra el archivo con `fclose`.
+Se libera ni `hospital` ni `hospital->pokemones` porque se devuelve el puntero a hospital. 
+
+## --- void ordenar_pokemones(hospital_t *hospital) ---
+
+Para ordenar el vector de `hospital->pokemones` implementé una función de insertion sort. 
