@@ -77,7 +77,7 @@ En la función pido memoria con `malloc` para la variable `hospital` del tamaño
 	hospital->cantidad_pokemon = 0, hospital->cantidad_entrenadores = 0;
 ```
 <div align="center">
-<img width="70%" src="img/hospitalpkm.svg">
+<img width="100%" src="img/hospitalpkm.svg">
 </div>
 
 En un `while` loop mientras la línea devuelta por la función `leer_linea_archivo(archivo)` no sea `NULL`
