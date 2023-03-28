@@ -133,3 +133,17 @@ Se libera ni `hospital` ni `hospital->pokemones` porque se devuelve el puntero a
 ## --- void ordenar_pokemones(hospital_t *hospital) ---
 
 Para ordenar el vector de `hospital->pokemones` implementé una función de insertion sort. 
+
+## --- char *leer_linea_archivo(FILE *archivo) ---
+
+Reservo memoria con `malloc` para el vector de `char *`. Leo los caracteres de cada línea
+utilizando `fgetc` y `while` loop. Pido más memoria del tamño de `char` para cada caracter
+leído con `realloc`. Al finalizar la lectura de una línea, agrego un 0 para el fin del string
+de char. 
+
+Si no llego a leer ningún caracter, es decir, `cant_c_leidos == 0` debería liberar la memoria
+pedida antes de hacer `return`. 
+
+<div align="center">
+<img width="70%" src="img/leerlineaarchivo.svg">
+</div>
