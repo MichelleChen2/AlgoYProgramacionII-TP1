@@ -65,5 +65,5 @@ struct _hospital_pkm_t y pido memoria del tamaño de pokemon_t * para un puntero
 Inicializo los otros variables del *hospital. 
 
 <div align="center">
-<img width="70%" src="img/hospital.svg">
+<img width="70%" src="img/hospitalpkm.svg">
 </div>
