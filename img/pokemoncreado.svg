@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="pokemoncreado.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="1.3289991"
+     inkscape:cx="407.44949"
+     inkscape:cy="374.34186"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker28293"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path28291" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28085"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path28083" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker21327"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path21325" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:9.87777px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.519999"
+       x="54.019718"
+       y="41.214756"
+       id="text2242"><tspan
+         sodipodi:role="line"
+         id="tspan2240"
+         style="stroke-width:0.52"
+         x="54.019718"
+         y="41.214756">STACK </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87777px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.519999"
+       x="98.928139"
+       y="41.142754"
+       id="text5218"><tspan
+         sodipodi:role="line"
+         id="tspan5216"
+         style="stroke-width:0.52"
+         x="98.928139"
+         y="41.142754">HEAP</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.519999"
+       d="M 40.414185,45.590385 153.49427,44.794048"
+       id="path5283" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.506589"
+       d="m 86.601497,30.858617 0.597912,72.664903"
+       id="path5287" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.519999"
+       id="rect11297"
+       width="13.736841"
+       height="12.741418"
+       x="57.933636"
+       y="51.762009" />
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:0.519999"
+       id="path11351"
+       cx="64.901596"
+       cy="58.033176"
+       rx="2.1899314"
+       ry="2.0903888" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.519999"
+       id="rect11297-7"
+       width="13.736841"
+       height="12.741418"
+       x="68.385582"
+       y="83.814644" />
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:0.519999"
+       id="path11351-6"
+       cx="75.353539"
+       cy="90.085808"
+       rx="2.1899314"
+       ry="2.0903888" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.519999"
+       id="rect11297-7-6"
+       width="13.736841"
+       height="12.741418"
+       x="68.385582"
+       y="108.8993" />
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:0.519999"
+       id="path11351-6-7"
+       cx="75.154457"
+       cy="115.56863"
+       rx="2.1899314"
+       ry="2.0903888" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.478697"
+       id="rect11297-7-6-8"
+       width="12.583635"
+       height="11.787297"
+       x="94.843185"
+       y="91.757385" />
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:0.422437"
+       id="path11351-6-7-6"
+       cx="101.43363"
+       cy="98.148735"
+       rx="1.8405433"
+       ry="1.6414583" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.519999"
+       id="rect11297-0"
+       width="13.736841"
+       height="12.741418"
+       x="103.2254"
+       y="52.95652" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.42;stroke-dasharray:none"
+       x="46.38673"
+       y="71.670479"
+       id="text12807"><tspan
+         sodipodi:role="line"
+         id="tspan12805"
+         style="font-size:6.35px;stroke-width:0.42;stroke-dasharray:none"
+         x="46.38673"
+         y="71.670479">*nuevo_pkm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.42;stroke-dasharray:none"
+       x="49.091846"
+       y="102.96346"
+       id="text12807-5"><tspan
+         sodipodi:role="line"
+         id="tspan12805-4"
+         style="font-size:6.35px;stroke-width:0.42;stroke-dasharray:none"
+         x="49.091846"
+         y="102.96346">*pkm_creado</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.42;stroke-dasharray:none;marker-end:url(#TriangleStart)"
+       d="m 69.480545,58.53089 37.427915,0.199085"
+       id="path16466" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.32;stroke-dasharray:none"
+       x="119.45079"
+       y="53.354683"
+       id="text16687"><tspan
+         sodipodi:role="line"
+         id="tspan16685"
+         style="font-size:4.93889px;stroke-width:0.32;stroke-dasharray:none"
+         x="119.45079"
+         y="53.354683">pokemon_t</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.20325px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.272337;stroke-dasharray:none"
+       x="106.71381"
+       y="121.12894"
+       id="text16687-3"
+       transform="scale(1.0275794,0.97316079)"><tspan
+         sodipodi:role="line"
+         id="tspan16685-4"
+         style="font-size:4.20325px;stroke-width:0.272337;stroke-dasharray:none"
+         x="106.71381"
+         y="121.12894">pokemon_t</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.20325px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.272337;stroke-dasharray:none"
+       x="172.11435"
+       y="119.77348"
+       id="text16687-38"
+       transform="scale(1.0275794,0.97316079)"><tspan
+         sodipodi:role="line"
+         id="tspan16685-46"
+         style="font-size:4.20325px;stroke-width:0.272337;stroke-dasharray:none"
+         x="172.11435"
+         y="119.77348">pokemon_t</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.32;stroke-dasharray:none"
+       x="43.400455"
+       y="81.22654"
+       id="text18167"><tspan
+         sodipodi:role="line"
+         id="tspan18165"
+         style="stroke-width:0.32"
+         x="43.400455"
+         y="81.22654" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.32;stroke-dasharray:none"
+       x="2.3890154"
+       y="77.842094"
+       id="text19812"><tspan
+         sodipodi:role="line"
+         id="tspan19810"
+         style="stroke-width:0.32"
+         x="2.3890154"
+         y="77.842094">Función: pokemon_t *crear_desde_string</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.32;stroke-dasharray:none"
+       x="15.476311"
+       y="130.07506"
+       id="text19812-6"><tspan
+         sodipodi:role="line"
+         id="tspan19810-1"
+         style="stroke-width:0.32"
+         x="15.476311"
+         y="130.07506">Función: </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.32"
+         x="15.476311"
+         y="136.24869"
+         id="tspan29014">hospital_t *hospital_crear_desde_archivo</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.52;stroke-dasharray:none;marker-end:url(#marker21327)"
+       d="M 79.832948,89.588095 108.70022,61.915328"
+       id="path21323" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.42;stroke-dasharray:none"
+       x="56.540047"
+       y="129.00687"
+       id="text26303"><tspan
+         sodipodi:role="line"
+         id="tspan26301"
+         style="font-size:7.76111px;stroke-width:0.42;stroke-dasharray:none"
+         x="56.540047"
+         y="129.00687">*hospital</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.574314;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-5"
+       width="11.758424"
+       height="11.264958"
+       x="114.48438"
+       y="91.76252" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.574314;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-91"
+       cx="120.55634"
+       cy="97.39502"
+       rx="1.2529467"
+       ry="1.3850359" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.574314;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-2-9"
+       width="11.758424"
+       height="11.264958"
+       x="126.24281"
+       y="91.76252" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.574314;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-5-1"
+       cx="132.31476"
+       cy="97.394997"
+       rx="1.2529467"
+       ry="1.3850359" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.574314;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-3-7"
+       width="11.758424"
+       height="11.264958"
+       x="137.80844"
+       y="91.762512" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.574314;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-7-2"
+       cx="143.30217"
+       cy="97.025665"
+       rx="1.2529467"
+       ry="1.3850359" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.574314;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-6-2"
+       width="11.758424"
+       height="11.264958"
+       x="148.9886"
+       y="91.76252" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.574314;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-9-1"
+       cx="154.4823"
+       cy="97.394997"
+       rx="1.2529467"
+       ry="1.3850359" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.574314;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-0-1"
+       width="11.758424"
+       height="11.264958"
+       x="160.55428"
+       y="91.76252" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.574314;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-92-2"
+       cx="166.43347"
+       cy="97.394997"
+       rx="1.2529467"
+       ry="1.3850359" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.561231;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-5-5"
+       width="11.216138"
+       height="11.277692"
+       x="171.75797"
+       y="91.756165" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.561231;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-91-4"
+       cx="177.5499"
+       cy="97.39502"
+       rx="1.1951622"
+       ry="1.3866013" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.561231;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-2-9-2"
+       width="11.216138"
+       height="11.277692"
+       x="182.97412"
+       y="91.756165" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.561231;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-5-1-4"
+       cx="188.76602"
+       cy="97.394997"
+       rx="1.1951622"
+       ry="1.3866013" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.561231;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-3-7-2"
+       width="11.216138"
+       height="11.277692"
+       x="194.00633"
+       y="91.756157" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.561231;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-7-2-9"
+       cx="199.2467"
+       cy="97.025269"
+       rx="1.1951622"
+       ry="1.3866013" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.442546;stroke-dasharray:none;marker-end:url(#marker28085)"
+       d="m 119.98151,98.878947 -2.61158,11.047243"
+       id="path28081" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.476344;stroke-dasharray:none;marker-end:url(#marker28293)"
+       d="m 188.7978,98.021657 2.84849,11.582693"
+       id="path28289" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.442546;stroke-dasharray:none;marker-end:url(#marker28293)"
+       d="M 132.51701,97.889637 V 110.42084"
+       id="path28541" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.442546;stroke-dasharray:none;marker-end:url(#marker28085)"
+       d="M 143.31148,97.724757 V 110.09108"
+       id="path28609" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.442546;stroke-dasharray:none;marker-end:url(#TriangleStart)"
+       d="m 154.62825,98.054527 -0.1741,11.706783"
+       id="path28677" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.442546;stroke-dasharray:none;marker-end:url(#TriangleStart)"
+       d="m 166.64144,99.043837 0.17411,10.552593"
+       id="path28745" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.442546;stroke-dasharray:none;marker-end:url(#marker28293)"
+       d="m 177.26181,98.054527 0.1741,10.387703"
+       id="path28815" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.813px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.442546;stroke-dasharray:none"
+       x="132.85728"
+       y="120.41286"
+       id="text28885"
+       transform="scale(1.0275794,0.97316079)"><tspan
+         sodipodi:role="line"
+         id="tspan28883"
+         style="font-size:16.813px;stroke-width:0.442547"
+         x="132.85728"
+         y="120.41286">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.813px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.442546;stroke-dasharray:none"
+       x="153.59985"
+       y="120.44824"
+       id="text28885-6"
+       transform="scale(1.0275794,0.97316079)"><tspan
+         sodipodi:role="line"
+         id="tspan28883-0"
+         style="font-size:16.813px;stroke-width:0.442547"
+         x="153.59985"
+         y="120.44824">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.20325px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.357442;stroke-dasharray:none"
+       x="112.5255"
+       y="92.456673"
+       id="text28926"
+       transform="scale(1.0275794,0.97316079)"><tspan
+         sodipodi:role="line"
+         id="tspan28924"
+         style="font-size:4.20325px;stroke-width:0.357442;stroke-dasharray:none"
+         x="112.5255"
+         y="92.456673">Vector de Punteros a pokmon_t</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.32;stroke-dasharray:none"
+       x="153.69334"
+       y="67.091522"
+       id="text29008"><tspan
+         sodipodi:role="line"
+         id="tspan29006"
+         style="font-size:5.64444px;stroke-width:0.32;stroke-dasharray:none"
+         x="153.69334"
+         y="67.091522">nuevo pokemon_t</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;stroke-width:0.32;stroke-dasharray:none"
+         x="153.69334"
+         y="74.147072"
+         id="tspan29010">agregado al vector</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.519999;marker-end:url(#marker28293)"
+       d="M 75.453085,115.86727 98.148733,99.542328"
+       id="path3884" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.519999;marker-end:url(#marker28293)"
+       d="m 102.72768,98.148737 15.72769,-0.597255"
+       id="path3942" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.519999;marker-end:url(#marker28293)"
+       d="M 198.68649,96.556059 112.68192,60.521735"
+       id="path3998" />
+  </g>
+</svg>

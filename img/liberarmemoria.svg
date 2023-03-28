@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="liberarmemoria.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.94316065"
+     inkscape:cx="405.55127"
+     inkscape:cy="442.66054"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5272"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path5270" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5272-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path5270-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5272-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path5270-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5272-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path5270-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5272-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path5270-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-3" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.519999"
+       x="39.273972"
+       y="29.174952"
+       id="text2242"><tspan
+         sodipodi:role="line"
+         id="tspan2240"
+         style="font-size:11.2889px;stroke-width:0.52"
+         x="39.273972"
+         y="29.174952">STACK </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.519999"
+       x="112.57195"
+       y="29.374979"
+       id="text2242-0"><tspan
+         sodipodi:role="line"
+         id="tspan2240-3"
+         style="font-size:11.2889px;stroke-width:0.52"
+         x="112.57195"
+         y="29.374979">HEAP </tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.595969;stroke-dasharray:none"
+       id="rect2548"
+       width="16.955734"
+       height="15.553093"
+       x="51.835735"
+       y="43.700413" />
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:0.513196;stroke-dasharray:none"
+       id="path2602"
+       cx="60.313602"
+       cy="51.476959"
+       rx="2.6711087"
+       ry="2.6695607" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.586029;stroke-dasharray:none"
+       id="rect2548-6"
+       width="16.685146"
+       height="15.282504"
+       x="89.98262"
+       y="98.81926" />
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:0.392756;stroke-dasharray:none"
+       id="path2602-6"
+       cx="98.325195"
+       cy="106.17999"
+       rx="2.1186354"
+       ry="1.9713115" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.62;stroke-dasharray:none"
+       x="43.481903"
+       y="67.607346"
+       id="text2606"><tspan
+         sodipodi:role="line"
+         id="tspan2604"
+         style="font-size:7.76111px;stroke-width:0.62;stroke-dasharray:none"
+         x="43.481903"
+         y="67.607346">*hospital</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.595969;stroke-dasharray:none"
+       id="rect2548-3"
+       width="16.955734"
+       height="15.553093"
+       x="52.506081"
+       y="99.001099" />
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:0.513196;stroke-dasharray:none"
+       id="path2602-1"
+       cx="60.983948"
+       cy="106.77765"
+       rx="2.6711087"
+       ry="2.6695607" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.62;stroke-dasharray:none"
+       x="44.152252"
+       y="122.90805"
+       id="text2606-9"><tspan
+         sodipodi:role="line"
+         id="tspan2604-7"
+         style="font-size:7.76111px;stroke-width:0.62;stroke-dasharray:none"
+         x="44.152252"
+         y="122.90805">*hospital</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8"
+       width="11.322379"
+       height="11.322379"
+       x="112.71664"
+       y="47.573238" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5"
+       cx="118.56344"
+       cy="53.234432"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-2"
+       width="11.322379"
+       height="11.322379"
+       x="124.03901"
+       y="47.573238" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-5"
+       cx="129.88582"
+       cy="53.234409"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-3"
+       width="11.322379"
+       height="11.322379"
+       x="135.17577"
+       y="47.573223" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-7"
+       cx="140.46574"
+       cy="52.863178"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-6"
+       width="11.322379"
+       height="11.322379"
+       x="145.9413"
+       y="47.573238" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-9"
+       cx="151.23128"
+       cy="53.234409"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-0"
+       width="11.322379"
+       height="11.322379"
+       x="157.07808"
+       y="47.573238" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-92"
+       cx="162.73926"
+       cy="53.234409"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-5"
+       width="11.322379"
+       height="11.322379"
+       x="112.99706"
+       y="73.772255" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-91"
+       cx="118.84385"
+       cy="79.433449"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-2-9"
+       width="11.322379"
+       height="11.322379"
+       x="124.31945"
+       y="73.772255" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-5-1"
+       cx="130.16621"
+       cy="79.433434"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-3-7"
+       width="11.322379"
+       height="11.322379"
+       x="135.45619"
+       y="73.77224" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-7-2"
+       cx="140.74617"
+       cy="79.062218"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-6-2"
+       width="11.322379"
+       height="11.322379"
+       x="146.22173"
+       y="73.772255" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-9-1"
+       cx="151.51169"
+       cy="79.433434"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-0-1"
+       width="11.322379"
+       height="11.322379"
+       x="157.35851"
+       y="73.772255" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-92-2"
+       cx="163.01968"
+       cy="79.433434"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none"
+       x="149.10054"
+       y="44.067753"
+       id="text5095"><tspan
+         sodipodi:role="line"
+         id="tspan5093"
+         style="stroke-width:0.265;stroke-dasharray:none"
+         x="149.10054"
+         y="44.067753">hospital-&gt;pokemones</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466925;stroke-dasharray:none;marker-end:url(#marker5272)"
+       d="m 118.34333,55.613973 0.17243,19.02381"
+       id="path5268" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466925;stroke-dasharray:none;marker-end:url(#marker5272-3)"
+       d="m 129.81221,55.630693 0.17243,19.02381"
+       id="path5268-9" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466925;stroke-dasharray:none;marker-end:url(#marker5272-1)"
+       d="m 140.52164,55.630693 0.17243,19.02381"
+       id="path5268-8" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466925;stroke-dasharray:none;marker-end:url(#marker5272-7)"
+       d="m 151.23105,55.630693 0.17243,19.02381"
+       id="path5268-2" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466925;stroke-dasharray:none;marker-end:url(#marker5272-0)"
+       d="m 162.69466,55.932363 0.17243,19.02381"
+       id="path5268-23" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       x="170.10135"
+       y="85.014397"
+       id="text5770"><tspan
+         sodipodi:role="line"
+         id="tspan5768"
+         style="font-size:19.7556px;stroke-width:0.265"
+         x="170.10135"
+         y="85.014397">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       x="168.80495"
+       y="57.995701"
+       id="text5770-2"><tspan
+         sodipodi:role="line"
+         id="tspan5768-3"
+         style="font-size:19.7556px;stroke-width:0.265"
+         x="168.80495"
+         y="57.995701">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-dasharray:none"
+       x="102.06335"
+       y="90.789574"
+       id="text9795"><tspan
+         sodipodi:role="line"
+         id="tspan9793"
+         style="stroke-width:0.165;stroke-dasharray:none"
+         x="102.06335"
+         y="90.789574">pokemon_t</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-dasharray:none"
+       x="107.43863"
+       y="45.398289"
+       id="text9826"><tspan
+         sodipodi:role="line"
+         id="tspan9824"
+         style="stroke-width:0.165;stroke-dasharray:none"
+         x="107.43863"
+         y="45.398289">**pokemon_t</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-00"
+       width="11.322379"
+       height="11.322379"
+       x="117.59724"
+       y="101.17061" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-0"
+       cx="123.44404"
+       cy="106.83179"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-2-4"
+       width="11.322379"
+       height="11.322379"
+       x="128.9196"
+       y="101.17061" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-5-2"
+       cx="134.76643"
+       cy="106.83178"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-3-4"
+       width="11.322379"
+       height="11.322379"
+       x="140.05637"
+       y="101.17059" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-7-3"
+       cx="145.34634"
+       cy="106.46053"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-6-6"
+       width="11.322379"
+       height="11.322379"
+       x="150.8219"
+       y="101.17061" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-9-9"
+       cx="156.11188"
+       cy="106.83178"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-0-9"
+       width="11.322379"
+       height="11.322379"
+       x="161.95868"
+       y="101.17061" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-92-4"
+       cx="167.61986"
+       cy="106.83178"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none"
+       x="150.89532"
+       y="98.226173"
+       id="text5095-0"><tspan
+         sodipodi:role="line"
+         id="tspan5093-7"
+         style="stroke-width:0.265;stroke-dasharray:none"
+         x="150.89532"
+         y="98.226173">hospital-&gt;pokemones</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       x="173.68555"
+       y="111.59306"
+       id="text5770-2-9"><tspan
+         sodipodi:role="line"
+         id="tspan5768-3-7"
+         style="font-size:19.7556px;stroke-width:0.265"
+         x="173.68555"
+         y="111.59306">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-dasharray:none"
+       x="112.31922"
+       y="98.995659"
+       id="text9826-0"><tspan
+         sodipodi:role="line"
+         id="tspan9824-6"
+         style="stroke-width:0.165;stroke-dasharray:none"
+         x="112.31922"
+         y="98.995659">**pokemon_t</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.82;stroke-dasharray:none"
+       d="M 21.881214,33.943935 166.35333,33.663405"
+       id="path5449" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.15024;stroke-dasharray:none"
+       d="M 81.158583,15.984082 81.828406,181.5079"
+       id="path5451" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.32;stroke-dasharray:none"
+       x="30.858122"
+       y="77.986893"
+       id="text6578"><tspan
+         sodipodi:role="line"
+         id="tspan6576"
+         style="stroke-width:0.32;stroke-dasharray:none"
+         x="30.858122"
+         y="77.986893">1. Liberar cada </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.32;stroke-dasharray:none"
+         x="30.858122"
+         y="87.688271"
+         id="tspan7378">pokemon_t *</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.32;stroke-dasharray:none"
+       x="11.172427"
+       y="122.7739"
+       id="text6578-9"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.32;stroke-dasharray:none"
+         x="11.172427"
+         y="122.7739"
+         id="tspan7378-0">2. Libero </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.32;stroke-dasharray:none"
+         x="11.172427"
+         y="132.47527"
+         id="tspan7773">hospital-&gt;pokemones</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.32;stroke-dasharray:none"
+       x="13.407115"
+       y="158.68343"
+       id="text6578-9-2"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.32;stroke-dasharray:none"
+         x="13.407115"
+         y="158.68343"
+         id="tspan7378-0-6">3. Libero </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.32;stroke-dasharray:none"
+         x="13.407115"
+         y="168.3848"
+         id="tspan7773-6">*hospital</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.12;stroke-dasharray:none"
+       x="115.57769"
+       y="67.32682"
+       id="text7382"><tspan
+         sodipodi:role="line"
+         id="tspan7380"
+         style="font-size:12.7px;stroke-width:0.12;stroke-dasharray:none"
+         x="115.57769"
+         y="67.32682">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.12;stroke-dasharray:none"
+       x="83.661819"
+       y="149.10085"
+       id="text7382-07"><tspan
+         sodipodi:role="line"
+         id="tspan7380-0"
+         style="font-size:12.7px;stroke-width:0.12;stroke-dasharray:none"
+         x="83.661819"
+         y="149.10085">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.12;stroke-dasharray:none"
+       x="108.90938"
+       y="109.54634"
+       id="text7382-9"><tspan
+         sodipodi:role="line"
+         id="tspan7380-1"
+         style="font-size:12.7px;stroke-width:0.12;stroke-dasharray:none"
+         x="108.90938"
+         y="109.54634">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.12;stroke-dasharray:none"
+       x="127.42425"
+       y="67.186554"
+       id="text7382-0"><tspan
+         sodipodi:role="line"
+         id="tspan7380-5"
+         style="font-size:12.7px;stroke-width:0.12;stroke-dasharray:none"
+         x="127.42425"
+         y="67.186554">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.12;stroke-dasharray:none"
+       x="137.8038"
+       y="67.186562"
+       id="text7382-8"><tspan
+         sodipodi:role="line"
+         id="tspan7380-9"
+         style="font-size:12.7px;stroke-width:0.12;stroke-dasharray:none"
+         x="137.8038"
+         y="67.186562">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.12;stroke-dasharray:none"
+       x="148.46388"
+       y="67.186554"
+       id="text7382-7"><tspan
+         sodipodi:role="line"
+         id="tspan7380-2"
+         style="font-size:12.7px;stroke-width:0.12;stroke-dasharray:none"
+         x="148.46388"
+         y="67.186554">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.12;stroke-dasharray:none"
+       x="159.68501"
+       y="67.186562"
+       id="text7382-01"><tspan
+         sodipodi:role="line"
+         id="tspan7380-6"
+         style="font-size:12.7px;stroke-width:0.12;stroke-dasharray:none"
+         x="159.68501"
+         y="67.186562">x</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.519999;stroke-dasharray:none;marker-end:url(#TriangleStart)"
+       d="m 63.679942,52.17828 26.930726,1.122111"
+       id="path8606" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.519999;stroke-dasharray:none;marker-end:url(#TriangleStart)"
+       d="M 96.221234,53.300391 116.13875,53.019864"
+       id="path8766" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.519999;stroke-dasharray:none;marker-end:url(#TriangleStart)"
+       d="m 61.716243,107.44237 32.541294,-1.40265"
+       id="path8848" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.595969;stroke-dasharray:none"
+       id="rect2548-9"
+       width="16.955734"
+       height="15.553093"
+       x="88.304428"
+       y="44.401733" />
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:0.513196;stroke-dasharray:none"
+       id="path2602-5"
+       cx="97.062805"
+       cy="53.300388"
+       rx="2.6711087"
+       ry="2.6695607" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.519999;stroke-dasharray:none;marker-end:url(#TriangleStart)"
+       d="M 98.465463,106.60078 H 121.18826"
+       id="path9029" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.586029;stroke-dasharray:none"
+       id="rect2548-6-1"
+       width="16.685146"
+       height="15.282504"
+       x="92.549141"
+       y="138.18167" />
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:0.392756;stroke-dasharray:none"
+       id="path2602-6-4"
+       cx="100.89172"
+       cy="145.5424"
+       rx="2.1186354"
+       ry="1.9713115" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.595969;stroke-dasharray:none"
+       id="rect2548-3-2"
+       width="16.955734"
+       height="15.553093"
+       x="55.072605"
+       y="138.36351" />
+    <ellipse
+       style="fill:#000000;stroke:#000000;stroke-width:0.513196;stroke-dasharray:none"
+       id="path2602-1-0"
+       cx="63.550472"
+       cy="146.14006"
+       rx="2.6711087"
+       ry="2.6695607" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.62;stroke-dasharray:none"
+       x="46.718777"
+       y="162.27046"
+       id="text2606-9-1"><tspan
+         sodipodi:role="line"
+         id="tspan2604-7-1"
+         style="font-size:7.76111px;stroke-width:0.62;stroke-dasharray:none"
+         x="46.718777"
+         y="162.27046">*hospital</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.519999;stroke-dasharray:none;marker-end:url(#TriangleStart-7)"
+       d="m 64.282767,146.80479 32.54129,-1.40265"
+       id="path8848-3" />
+  </g>
+</svg>

@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg12"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="hospital.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3289991"
+     inkscape:cx="392.40057"
+     inkscape:cy="249.43583"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs9">
+    <marker
+       style="overflow:visible"
+       id="marker5272"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path5270" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5272-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path5270-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5272-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path5270-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5272-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path5270-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5272-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path5270-1" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;stroke-width:0.264583"
+       d="M 20.957775,47.386633 C 127.87073,45.716123 127.87073,45.716123 127.87073,45.716123"
+       id="path120" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       d="m 82.832689,16.190221 0.742453,88.166059"
+       id="path3476" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       x="49.236786"
+       y="28.599335"
+       id="text3532"><tspan
+         sodipodi:role="line"
+         id="tspan3530"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.565"
+         x="49.236786"
+         y="28.599335">STACK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       x="93.041382"
+       y="28.255051"
+       id="text3586"><tspan
+         sodipodi:role="line"
+         id="tspan3584"
+         style="stroke-width:0.565"
+         x="93.041382"
+         y="28.255051">HEAP</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640"
+       width="11.322379"
+       height="11.322379"
+       x="52.577812"
+       y="40.691101" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746"
+       cx="58.424614"
+       cy="46.166679"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8"
+       width="11.322379"
+       height="11.322379"
+       x="113.18187"
+       y="41.991898" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5"
+       cx="119.02867"
+       cy="47.653084"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-2"
+       width="11.322379"
+       height="11.322379"
+       x="124.50425"
+       y="41.991898" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-5"
+       cx="130.35106"
+       cy="47.653061"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <path
+       style="fill:#060606;stroke:#000000;stroke-width:0.574204;stroke-dasharray:none;marker-end:url(#Arrow2)"
+       d="M 62.006407,46.539847 89.379184,46.257758"
+       id="path2556" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#060606;stroke:#000000;stroke-width:0.165;stroke-dasharray:none"
+       x="48.865555"
+       y="57.025013"
+       id="text2678"><tspan
+         sodipodi:role="line"
+         id="tspan2676"
+         style="font-size:4.93889px;stroke-width:0.165;stroke-dasharray:none"
+         x="48.865555"
+         y="57.025013">*hospital</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.654011;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-3"
+       width="13.821467"
+       height="12.427875"
+       x="88.51133"
+       y="39.518047" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.744334;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-9"
+       cx="95.109955"
+       cy="45.745461"
+       rx="1.7140696"
+       ry="1.7005978" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-3"
+       width="11.322379"
+       height="11.322379"
+       x="135.64101"
+       y="41.991875" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-7"
+       cx="140.931"
+       cy="47.281837"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-6"
+       width="11.322379"
+       height="11.322379"
+       x="146.40656"
+       y="41.991898" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-9"
+       cx="151.69653"
+       cy="47.653061"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-0"
+       width="11.322379"
+       height="11.322379"
+       x="157.54333"
+       y="41.991898" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-92"
+       cx="163.20451"
+       cy="47.653061"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-5"
+       width="11.322379"
+       height="11.322379"
+       x="113.4623"
+       y="68.190903" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-91"
+       cx="119.30909"
+       cy="73.852097"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-2-9"
+       width="11.322379"
+       height="11.322379"
+       x="124.78469"
+       y="68.190903" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-5-1"
+       cx="130.63147"
+       cy="73.852081"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-3-7"
+       width="11.322379"
+       height="11.322379"
+       x="135.92143"
+       y="68.190887" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-7-2"
+       cx="141.21143"
+       cy="73.480865"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-6-2"
+       width="11.322379"
+       height="11.322379"
+       x="146.68698"
+       y="68.190903" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-9-1"
+       cx="151.97694"
+       cy="73.852081"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3640-8-0-1"
+       width="11.322379"
+       height="11.322379"
+       x="157.82376"
+       y="68.190903" />
+    <ellipse
+       style="fill:#060606;fill-opacity:1;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:1"
+       id="path3746-5-92-2"
+       cx="163.48494"
+       cy="73.852081"
+       rx="1.2064829"
+       ry="1.3920957" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:#000000;stroke-width:0.365001;stroke-dasharray:none;fill-opacity:1"
+       x="138.34215"
+       y="142.61952"
+       id="text4774"><tspan
+         sodipodi:role="line"
+         id="tspan4772"
+         style="stroke-width:0.365;fill:#000000;fill-opacity:1"
+         x="138.34215"
+         y="142.61952" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none"
+       x="149.5658"
+       y="38.486404"
+       id="text5095"><tspan
+         sodipodi:role="line"
+         id="tspan5093"
+         style="stroke-width:0.265;stroke-dasharray:none"
+         x="149.5658"
+         y="38.486404">hospital-&gt;pokemones</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466925;stroke-dasharray:none;marker-end:url(#marker5272)"
+       d="m 118.80857,50.032621 0.17243,19.02381"
+       id="path5268" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466925;stroke-dasharray:none;marker-end:url(#marker5272-3)"
+       d="m 130.27745,50.049341 0.17243,19.02381"
+       id="path5268-9" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466925;stroke-dasharray:none;marker-end:url(#marker5272-1)"
+       d="m 140.98688,50.049341 0.17243,19.02381"
+       id="path5268-8" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466925;stroke-dasharray:none;marker-end:url(#marker5272-7)"
+       d="m 151.69629,50.049341 0.17243,19.02381"
+       id="path5268-2" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466925;stroke-dasharray:none;marker-end:url(#marker5272-0)"
+       d="m 163.1599,50.351011 0.17243,19.02381"
+       id="path5268-23" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none"
+       x="101.77275"
+       y="94.527893"
+       id="text5766"><tspan
+         sodipodi:role="line"
+         id="tspan5764"
+         style="stroke-width:0.265;stroke-dasharray:none"
+         x="101.77275"
+         y="94.527893">hospital-&gt;pokemones[i]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       x="170.5666"
+       y="79.433044"
+       id="text5770"><tspan
+         sodipodi:role="line"
+         id="tspan5768"
+         style="font-size:19.7556px;stroke-width:0.265"
+         x="170.5666"
+         y="79.433044">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       x="169.2702"
+       y="52.414352"
+       id="text5770-2"><tspan
+         sodipodi:role="line"
+         id="tspan5768-3"
+         style="font-size:19.7556px;stroke-width:0.265"
+         x="169.2702"
+         y="52.414352">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       x="159.04865"
+       y="94.926064"
+       id="text5801"><tspan
+         sodipodi:role="line"
+         id="tspan5799"
+         style="font-size:4.93889px;stroke-width:0.265"
+         x="159.04865"
+         y="94.926064">i = 0, 1, 2, ...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-dasharray:none"
+       x="102.52859"
+       y="85.208221"
+       id="text9795"><tspan
+         sodipodi:role="line"
+         id="tspan9793"
+         style="stroke-width:0.165;stroke-dasharray:none"
+         x="102.52859"
+         y="85.208221">pokemon_t</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.165;stroke-dasharray:none"
+       x="107.90387"
+       y="39.816948"
+       id="text9826"><tspan
+         sodipodi:role="line"
+         id="tspan9824"
+         style="stroke-width:0.165;stroke-dasharray:none"
+         x="107.90387"
+         y="39.816948">**pokemon_t</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.365;stroke-dasharray:none"
+       x="1.990846"
+       y="57.535465"
+       id="text15515"><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;stroke-width:0.365;stroke-dasharray:none"
+         x="1.990846"
+         y="57.535465"
+         id="tspan30862">Función:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;stroke-width:0.365;stroke-dasharray:none"
+         x="1.990846"
+         y="63.70908"
+         id="tspan30866">hospital *hospital_crear_desde_archivo</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.765;stroke-dasharray:none"
+       d="m 34.839816,30.858121 91.578934,-0.19908"
+       id="path17169" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.611666;marker-end:url(#Arrow2)"
+       d="m 97.729363,46.075931 16.470767,1.112498"
+       id="path10726" />
+  </g>
+</svg>

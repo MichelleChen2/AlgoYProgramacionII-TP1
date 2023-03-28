@@ -57,4 +57,13 @@ vector_original = vector;
 ---
 
 ## Respuestas a las preguntas teóricas
-Incluír acá las respuestas a las preguntas del enunciado (si aplica).
+
+--- hospital_t *hospital_crear_desde_archivo (const char *nombre_archivo) ---
+
+Abro el archivo, si el archivo es NULL devuelvo NULL. Pido, primero, memoria del tamaño de un 
+struct _hospital_pkm_t y pido memoria del tamaño de pokemon_t * para un puntero a pokemon_t.
+Inicializo los otros variables del *hospital. 
+
+<div align="center">
+<img width="70%" src="img/hospitalpkm.svg">
+</div>
