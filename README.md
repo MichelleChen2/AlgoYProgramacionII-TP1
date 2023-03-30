@@ -9,18 +9,18 @@
 - Para compilar:
 
 ```bash
-línea de compilación
+gcc src/*.c pruebas_chanutron.c -std=c99 -Wall -Wconversion -Wtype-limits -pedantic -Werror -02 -g -o pruebas_chanutron
 ```
 
 - Para ejecutar:
 
 ```bash
-línea de ejecución
+./pruebas_chanutron
 ```
 
 - Para ejecutar con valgrind:
 ```bash
-línea con valgrind
+valgrind --leak-check=full --track-origins=yes --show-reachable=yes --error-exitcode=2 --show-leak-kinds=all --trace-children=yes ./p
 ```
 ---
 ##  Funcionamiento
@@ -133,6 +133,7 @@ Se libera ni `hospital` ni `hospital->pokemones` porque se devuelve el puntero a
 ## --- void ordenar_pokemones(hospital_t *hospital) ---
 
 Para ordenar el vector de `hospital->pokemones` implementé una función de insertion sort. 
+La función ordena in-place a pokemones, entonces no devuelve nada. 
 
 ## --- char *leer_linea_archivo(FILE *archivo) ---
 
@@ -156,6 +157,21 @@ Pido memoria con `malloc` para el tamño de un `pokemon_t`. Uso `sscanf` para ob
 parámetro. Si la cantidad de datos leídos es memor que 4, significa que el formato de la línea no ajusta a lo pedido
 por lo que debería, primero, liberar la memoria pedida con `pokemon_destruir(nuevo_pkm)` y después devolver `NULL`. 
 
+Si el nuevo pokemon fue creado con éxito, entonces será devuelto a la función que la llamó. En este caso, la función
+`hospital_t *hospital_crear_desde_archivo(const char *nombre_archivo)` en `tp1.c` llamó a la función para crear
+un nuevo pokemon a partir del string leído del archivo.
+
+En el siguiente dibujo quedará ilustrado como quedará los punteros: 
+
 <div align="center">
 <img width="70%" src="img/pokemoncreado.svg">
+</div>
+
+## --- void hospital_destruir(hospital_t *hospital) ---
+
+Para destruir el hospital, debo liberar primero la memoria que reservé para cada uno de los `pokemon_t *` usando un
+`for` para recorrer el vector de `**pokemones`. Después, libero el `**pokemones` y por último el `hospital`. 
+
+<div align="center">
+<img width="70%" src="img/liberarmemoria.svg">
 </div>
