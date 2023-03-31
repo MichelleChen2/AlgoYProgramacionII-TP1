@@ -136,8 +136,8 @@ int hospital_aceptar_emergencias(hospital_t *hospital,
 		realloc(hospital->pokemones,
 			(hospital->cantidad_pokemon + cant_pokes_ambulancia) *
 				sizeof(pokemon_t *));
-                                
-	if (hospital_aux == NULL) 
+
+	if (hospital_aux == NULL)
 		return ERROR;
 
 	hospital->pokemones = hospital_aux;

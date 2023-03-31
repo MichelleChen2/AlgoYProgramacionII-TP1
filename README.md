@@ -135,6 +135,10 @@ Se libera ni `hospital` ni `hospital->pokemones` porque se devuelve el puntero a
 Para ordenar el vector de `hospital->pokemones` implementé una función de insertion sort. 
 La función ordena in-place a pokemones, entonces no devuelve nada. 
 
+<div align="center">
+<img width="70%" src="img/ordenar.svg">
+</div>
+
 ## --- char *leer_linea_archivo(FILE *archivo) ---
 
 Reservo memoria con `malloc` para el vector de `char *`. Leo6 los caracteres de cada línea
