@@ -137,7 +137,7 @@ La función ordena in-place a pokemones, entonces no devuelve nada.
 
 ## --- char *leer_linea_archivo(FILE *archivo) ---
 
-Reservo memoria con `malloc` para el vector de `char *`. Leo los caracteres de cada línea
+Reservo memoria con `malloc` para el vector de `char *`. Leo6 los caracteres de cada línea
 utilizando `fgetc` y `while` loop. Pido más memoria del tamño de `char` para cada caracter
 leído con `realloc`. Al finalizar la lectura de una línea, agrego un 0 para el fin del string
 de char. 
@@ -167,10 +167,29 @@ En el siguiente dibujo quedará ilustrado como quedará los punteros:
 <img width="70%" src="img/pokemoncreado.svg">
 </div>
 
+## --- int hospital_aceptar_emergencias(hospital_t *hospital, pokemon_t **pokemones_ambulancia, size_t cant_pokes_ambulancia) ---
+
+Evalúo si los punteros dados por parámetro son `NULL`, en caso positivo devuelvo `ERROR`.
+Si la `cant_poke_ambulancia` es 0 significa que la ambulancia está vacía y no hago nada. 
+Creo una nueva variable `pokemon_t **` para guardar la dirección devuelta por `realloc` después de agrandar el vector
+de punteros a pokemones. Si el pedido de memoria de `realloc` no fue exitoso, `pokemon_t **hospital_aux == NULL`, devuelvo 
+`ERROR`. Si el pedido fue exitoso, actualizo `hospital->pokemones`. 
+
+Cargo los pokemones de la ambulancia al vector de punteros a pokemones con un `while`. Me paro en el último `pokemon_t *`
+y empiezo a contar  a partir de 0 con la variable `n_pokemon` hasta el valor de `cant_pokes_ambulancia`. Así recorro 
+todas las posiciones nuevas reservadas y cargo los `pokemon_t *` a cada posición. Actualizo la cantidad de entrenadores 
+por cada pokemon nuevo que agrego. 
+
+<div align="center">
+<img width="70%" src="img/hospitalaceptarambulancia.svg">
+</div>
+
+Actualizo la cantidad de pokemones en el hospital. Y ordeno el hospital. 
+
 ## --- void hospital_destruir(hospital_t *hospital) ---
 
 Para destruir el hospital, debo liberar primero la memoria que reservé para cada uno de los `pokemon_t *` usando un
-`for` para recorrer el vector de `**pokemones`. Después, libero el `**pokemones` y por último el `hospital`. 
+`for` para recorrer el vector de `**pokemones` y libero cada `pokemon_t *`. Después, libero el `**pokemones` y por último el `hospital`. 
 
 <div align="center">
 <img width="70%" src="img/liberarmemoria.svg">
