@@ -2,9 +2,9 @@
 <img width="32px" src="img/algo2.svg">
 </div>
 
-# TP1
+## Algoritmos y Progamación II - 1C2023
 
-## Repositorio de Michelle Melisa Chen - 105506 - mchen@fi.uba.ar
+### TP1: Michelle Melisa Chen - 105506 - mchen@fi.uba.ar
 
 - Para compilar:
 
